@@ -14,3 +14,4 @@ var gen = document.getElementById('generate')
             }
             gen.innerHTML = result;
         }
+        console.log("Hello world");
